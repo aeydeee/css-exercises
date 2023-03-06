@@ -1,3 +1,17 @@
 .class {
   background-color: pink;
 }
+
+#one {
+  font-size: 30px;
+  color: blue;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#another {
+  background-color: lightgreen;
+  font-weight: 900;
+}
